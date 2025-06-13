@@ -51,5 +51,6 @@ Ablation contributions:
 
 ---
 
-## ⚙️ Our model (Coming Q3 2025)
+## ⚙️ Our Frame of Method (Coming Q3 2025)
 ![Overview of Causal-MSFF](total_frame.png)
+figure1:Overview of Causal-MSFF.
