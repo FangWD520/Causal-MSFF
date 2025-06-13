@@ -8,6 +8,12 @@
 
 ---
 
+## ⚙️ Our Frame of Method (Coming Q3 2025)
+![Overview of Causal-MSFF](total_frame.png)
+figure1:Overview of Causal-MSFF.
+
+---
+
 ## 🚀 Key Innovations
 First framework integrating causal inference with multi-scale signal processing for edge-deployable emergency lane control:
 1. **Causal-Temporal Synchronization**  
@@ -49,8 +55,3 @@ Ablation contributions:
     └── calibration_report.pdf     # Sensor calibration
 ```
 
----
-
-## ⚙️ Our Frame of Method (Coming Q3 2025)
-![Overview of Causal-MSFF](total_frame.png)
-figure1:Overview of Causal-MSFF.
