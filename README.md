@@ -28,6 +28,19 @@ First framework integrating causal inference with multi-scale signal processing 
    - Online learning pipeline with real-time parameter updates
    - <50ms inference latency (Jetson Xavier verified)
 
+---
+
+## Conda environment configuration
+```bash
+conda create -n Causal-MSFF python==3.10 -y
+
+conda activate Causal-MSFF
+
+cd ../Causal-MSFF
+```
+
+---
+
 ## 📊 Performance Highlights
 Superior results on Nanjing G25 Expressway dataset:
 | Metric       | Baseline | Causal-MSFF | Improvement |
