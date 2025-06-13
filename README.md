@@ -57,7 +57,7 @@ Ablation contributions:
 
 ---
 
-## ✨ Code under organization - Expected release Q3 2025
+## ✨ Code under organization - Expected to be released soon
 Technical inquiries: glml@xjau.edu.cn
 ```text
 
