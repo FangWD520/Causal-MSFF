@@ -51,5 +51,5 @@ Ablation contributions:
 
 ---
 
-## ⚙️ Code Architecture (Coming Q3 2025)
+## ⚙️ Our model (Coming Q3 2025)
 ![Overview of Causal-MSFF](total_frame.png)
