@@ -50,4 +50,5 @@ Ablation contributions:
 
 ---
 
-⚙️ Code Architecture (Coming Q3 2025)
+## ⚙️ Code Architecture (Coming Q3 2025)
+![Overview of Causal-MSFF](https://github.com/FangWD520/Causal-MSFF/edit/main/total_frame.png)
