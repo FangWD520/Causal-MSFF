@@ -37,6 +37,8 @@ conda create -n Causal-MSFF python==3.10 -y
 conda activate Causal-MSFF
 
 cd ../Causal-MSFF
+
+pip install ultralytics
 ```
 
 ---
