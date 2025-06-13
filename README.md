@@ -47,3 +47,7 @@ Ablation contributions:
 └── Metadata
     ├── node_positions.gpkg        # Beidou positioning data
     └── calibration_report.pdf     # Sensor calibration
+
+---
+
+⚙️ Code Architecture (Coming Q3 2025)
