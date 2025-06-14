@@ -51,6 +51,8 @@ pip install tigramite
 pip install dcor
 
 pip install statsmodels
+
+pip install torcheval
 ```
 
 ---
