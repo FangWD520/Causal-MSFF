@@ -43,6 +43,8 @@ pip install ultralytics
 pip install screeninfo
 
 pip install scikit-learn
+
+pip install PyWavelets
 ```
 
 ---
