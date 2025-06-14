@@ -49,6 +49,8 @@ pip install PyWavelets
 pip install tigramite
 
 pip install dcor
+
+pip install statsmodels
 ```
 
 ---
