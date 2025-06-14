@@ -41,6 +41,8 @@ cd ../Causal-MSFF
 pip install ultralytics
 
 pip install screeninfo
+
+pip install sklearn
 ```
 
 ---
