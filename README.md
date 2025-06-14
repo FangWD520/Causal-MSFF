@@ -45,6 +45,8 @@ pip install screeninfo
 pip install scikit-learn
 
 pip install PyWavelets
+
+pip install tigramite
 ```
 
 ---
