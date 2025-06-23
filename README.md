@@ -53,6 +53,8 @@ pip install dcor
 pip install statsmodels
 
 pip install torcheval
+
+pip install timm
 ```
 
 ---
