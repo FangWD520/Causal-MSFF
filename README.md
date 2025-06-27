@@ -55,6 +55,8 @@ pip install statsmodels
 pip install torcheval
 
 pip install timm
+
+pip install pytorch-wavelets
 ```
 
 ---
