@@ -56,7 +56,7 @@ pip install torcheval
 
 pip install timm
 
-pip install pytorch-wavelets
+pip install dowhy
 ```
 
 ---
