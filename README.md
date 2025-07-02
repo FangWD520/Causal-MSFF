@@ -57,6 +57,8 @@ pip install torcheval
 pip install timm
 
 pip install dowhy
+
+pip install ptwt
 ```
 
 ---
